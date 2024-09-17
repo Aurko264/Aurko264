@@ -1,6 +1,6 @@
 ![My cool GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # 💫 About Me:
-🔭 I’m currently working on chat application<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning java and python<br>⚡ Fun fact i love puzzles
+🔭 I’m currently working on upgrading my skills<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning java and python<br>⚡ Fun fact i love puzzles
 
 
 ## 🌐 Socials:
